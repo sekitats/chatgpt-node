@@ -2,10 +2,12 @@
 
 
 ```
-## 開発時
+# 開発時
 $ yarn run start:dev
-## ビルド
+
+# ビルド
 $ yarn run build
-## 起動
+
+# 起動
 $ yarn start
 ```
